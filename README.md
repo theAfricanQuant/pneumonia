@@ -7,4 +7,4 @@ The sample app described here is up at https://fastai-v3.onrender.com. Test it o
 The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
 
 
-I have used the example to make my own which can be viewed here: https://swinehealth.onrender.com/. Test it out with images of pigs!
+I have used the example to make my own which can be viewed here: https://pneumonia-v1.onrender.com. Test it out with images of Chest x-rays!
